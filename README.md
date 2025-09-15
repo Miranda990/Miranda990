@@ -1,24 +1,5 @@
 ## Oi Mundo! 👋
 
-<!--
-**Miranda990/Miranda990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="center">
-  Miranda manda saudações
-</p>
-
 <br>
   <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"</a>
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&pause=1000&color=F70000&width=435&lines=Tudo+blzz%3F+Eu+sou+Miranda990"/></a>
@@ -44,7 +25,7 @@ Hobbies: Play Video-Games, Read, CyberSecurity.
 
 <p align="center"><strong>Github Status</strong></p>
 
-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&duration=1&pause=1000&color=F70000&width=435&lines=Meus+Projetos" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&duration=1&pause=1000&color=F70000&width=435&lines=Meus+Projetos" alt="Typing SVG" /></a>
 
 <br>
 <p align="center">
@@ -55,5 +36,5 @@ Hobbies: Play Video-Games, Read, CyberSecurity.
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=footer">
 </a>
 
-- <a href="#"><img src="https://readme-typing-svg.herokuapp.comfont=SUSE&size=40&&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A"/>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.comfont=SUSE&size=40&&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A"/>
 </a>

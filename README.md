@@ -2,7 +2,7 @@
 
 <br>
   <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"</a>
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&pause=1000&color=F70000&width=435&lines=Tudo+blzz%3F+Eu+sou+Miranda990"/></a>
+  <a align="center" href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&pause=1000&color=F70000&width=435&lines=Tudo+blzz%3F+Eu+sou+Miranda990"/></a>
 <br>
 
 <br><br><br>
@@ -12,7 +12,7 @@
 ```
 
 ```lua
-DarkMode@GitHub
+Miranda990@GitHub
 ▔▔▔▔▔▔▔▔▔
 OS: Windows 10 x64
 Shell: Windows Terminal

@@ -33,7 +33,7 @@ Hobbies: Cinema, Música, Games, Tecnologia
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,php,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,git,github,vscode"/>
 
 </div>
 

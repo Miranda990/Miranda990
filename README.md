@@ -1,11 +1,16 @@
 ## Oi Mundo! 👋
 
-<br>
-  <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"</a>
-  <a align="center" href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&pause=1000&color=F70000&width=435&lines=Tudo+blzz%3F+Eu+sou+Miranda990"/></a>
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0f0f,100:1f1f1f&section=header"/>
 
-<br><br><br>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=700&lines=Tudo+blzz%3F+Eu+sou+Leonardo+Miranda;Desenvolvedor+Front-End;Estudando+ADS+e+CyberSecurity;Bem-vindo+ao+meu+perfil+🚀"/>
+
+</div>
+
+---
+
+# 💻 Sobre Mim
 
 ```zsh
 > neofetch
@@ -13,28 +18,97 @@
 
 ```lua
 Miranda990@GitHub
-▔▔▔▔▔▔▔▔▔
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 OS: Windows 10 x64
-Shell: Windows Terminal
-Location: Brasil, SP
-Learning: HTML, CSS, JavaScript
-Languages: None
-Hobbies: Play Video-Games, Read, CyberSecurity.
+Course: ADS
+Location: Mongaguá, SP - Brasil
+Learning: HTML, CSS, JavaScript, C#
+Focus: Front-End & CyberSecurity
+Hobbies: Cinema, Música, Games, Tecnologia
 ```
-<br><br>
 
-<p align="center"><strong>Github Status</strong></p>
+---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&duration=1&pause=1000&color=F70000&width=435&lines=Meus+Projetos" alt="Typing SVG" /></a>
+# 🚀 Tecnologias
 
-<br>
-<p align="center">
-    <a href="#"><img src="https://komarev.com/ghpvc/?username=Miranda990&style=for-the-badge&label=Views:&color=gray"/></a>
-    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/Miranda990?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follows&logoColor=white"/></a>
-</p>
-<a href="#">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=footer">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,php,mysql,git,github,vscode"/>
+
+</div>
+
+---
+
+# 📊 GitHub Status
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miranda990&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miranda990&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Miranda990&theme=tokyonight&hide_border=false"/>
+
+</div>
+
+---
+
+# 📁 Projetos em Destaque
+
+<div align="center">
+
+<a href="https://github.com/Miranda990">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miranda990&repo=NOME_DO_REPOSITORIO&theme=tokyonight"/>
 </a>
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.comfont=SUSE&size=40&&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A"/>
+<a href="https://github.com/Miranda990">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miranda990&repo=NOME_DO_REPOSITORIO2&theme=tokyonight"/>
 </a>
+
+</div>
+
+---
+
+# 🌐 Redes Sociais
+
+<div align="center">
+
+<a href="https://instagram.com/SEUUSER">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://linkedin.com/in/SEUUSER">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://discord.com/users/SEUID">
+<img src="https://skillicons.dev/icons?i=discord"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Miranda990&style=for-the-badge&color=red"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Obrigado+por+visitar+meu+perfil+❤️;Volte+sempre+🚀"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0f0f,100:1f1f1f&section=footer"/>

@@ -65,7 +65,7 @@ Hobbies: Cinema, Música, Games, Tecnologia
 
 <div align="center">
 
-<a href="https://github.com/Miranda990">
+<a href="https://github.com/Miranda990/TCC_NEXUS_OFICIAL">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miranda990&repo=TCC_NEXUS_OFICIAL&theme=tokyonight"/>
 </a>
 
